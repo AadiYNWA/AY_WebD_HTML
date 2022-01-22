@@ -1,0 +1,21 @@
+body
+{
+    background-color: #F0ECE3;
+}
+
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width: 5px;
+    width:30%;
+    background-color: #F0ECE3;
+    /*Height not mentioned. Hence browser takes it as 0*/
+}
+
+h1
+{
+    color:#064635;
+    font-style:italic;
+}
